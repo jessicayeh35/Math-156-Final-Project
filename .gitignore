@@ -1,0 +1,5 @@
+assamese_data/
+cnn_data/images_128/
+*.rar
+__pycache__/
+.ipynb_checkpoints/
